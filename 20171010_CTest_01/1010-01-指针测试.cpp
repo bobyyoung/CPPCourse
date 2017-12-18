@@ -16,6 +16,5 @@ int main101001(int argc, char * argv[])
 	cout << "&a:" << &a << endl;
 
 	getchar();
-
-
+	return 0;
 } 

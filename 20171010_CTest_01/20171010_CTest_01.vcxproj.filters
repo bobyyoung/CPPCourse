@@ -18,5 +18,8 @@
     <ClCompile Include="1010-01-指针测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1218-01-用面向对象方法编程，求圆的周长和面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
