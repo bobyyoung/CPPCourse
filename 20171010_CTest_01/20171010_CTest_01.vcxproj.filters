@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c提高班测试.cpp">
+    <ClCompile Include="1010-01-指针测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

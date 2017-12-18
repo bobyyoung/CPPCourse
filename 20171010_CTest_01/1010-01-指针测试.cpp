@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-int main(int argc, char * argv[])
+int main101001(int argc, char * argv[])
 {
 	int a;
 	int *p;
