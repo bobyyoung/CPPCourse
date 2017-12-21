@@ -36,7 +36,7 @@ private:
 };
 
 
-void main() {
+void main121802() {
 
 	Circle A;
 	Circle B;
